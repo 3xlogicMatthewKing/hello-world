@@ -1,4 +1,4 @@
 # hello-world
-GitHub test repository
+GitHubTestRepository
 
 # This is my first GitHub edit/commit of awesomeness.
